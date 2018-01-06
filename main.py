@@ -1,4 +1,4 @@
-n    # -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 from subprocess import Popen,PIPE
 import time
